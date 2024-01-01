@@ -1,10 +1,11 @@
 # Call of Duty Tools
 
-Bienvenue sur le Github de **Joueurs de COD** où vous pourrez trouver tout les cheats et cracks que nous proposons
+Bienvenue sur le Github de **Joueurs de COD** où vous pourrez trouver tout les cheats et cracks que nous proposons.
+> [!NOTE] 
+> Nous vérifions tout les fichiers que nous proposons afin que vous ayez le moins de problèmes possibles.
 
 ## Call of Duty Cheats
-> [!NOTE] 
-> Nous vérifions tout les cheats que nous proposons afin que vous ayez le moins de problèmes possibles.
+
 
 ### Call of Duty Black Ops 3
 
