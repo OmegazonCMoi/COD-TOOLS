@@ -1,13 +1,23 @@
 # Call of Duty Tools
 
-Bienvenue sur le Github de **Joueurs de COD** où vous pourrez trouver tout les cheats et cracks que nous proposons.
+Bienvenue sur le Github de Joueurs de COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils et bien plus encore, soigneusement sélectionnés pour améliorer votre expérience de jeu.
+
+Plongez dans notre bibliothèque virtuelle, où vous trouverez non seulement des éléments classiques pour enrichir votre gameplay, mais également des créations originales et innovantes provenant de notre communauté passionnée de joueurs de Call of Duty. Que vous soyez un vétéran chevronné ou un nouvel arrivant dans l'univers du jeu, notre Github offre quelque chose pour tous les goûts et tous les niveaux de compétence.
+
+N'oubliez pas de consulter régulièrement notre page, car nous mettons constamment à jour notre collection pour vous offrir les dernières nouveautés et les meilleurs ajouts. Si vous avez des questions, des suggestions ou si vous cherchez quelque chose de spécifique, n'hésitez pas à participer à nos discussions sur le forum ou à nous contacter directement. L'équipe des Joueurs de COD est là pour vous accompagner dans votre aventure gaming. Profitez pleinement de votre expérience Call of Duty avec notre sélection exclusive de fichiers sur notre Github dédié !
 > [!NOTE] 
-> Nous vérifions tout les fichiers que nous proposons afin que vous ayez le moins de problèmes possibles.
+> Nous nous engageons à garantir une expérience de jeu optimale en vérifiant rigoureusement tous les fichiers que nous mettons à votre disposition. Chaque fichier subit un processus de contrôle approfondi pour s'assurer de son intégrité, de sa fiabilité et de sa conformité aux normes de la communauté.
 
 ## Call of Duty Cheats
 
 
 ### Call of Duty Black Ops 3
+
+Explorez notre catalogue exhaustif qui regroupe l'ensemble des cheats que nous mettons à votre disposition. Qu'il s'agisse de mods novateurs, de scripts astucieux, d'outils pratiques ou d'autres ressources passionnantes, tout est réuni ici pour enrichir votre expérience de jeu dans l'univers captivant de Call of Duty.
+
+Naviguez à travers nos différentes catégories soigneusement organisées pour trouver exactement ce que vous recherchez. Nous mettons un point d'honneur à offrir une diversité de fichiers pour satisfaire tous les goûts et styles de jeu. Notre équipe dévouée s'assure que chaque fichier proposé répond aux normes de qualité les plus élevées, garantissant ainsi une expérience de jeu sans accroc.
+
+N'hésitez pas à explorer, télécharger et profiter de tout ce que notre communauté a à offrir. Si vous avez des questions, des suggestions ou des retours, n'hésitez pas à nous contacter. Nous sommes là pour vous fournir la meilleure expérience de jeu possible. Merci de faire partie de la communauté des Joueurs de COD, où la passion du jeu est notre moteur principal. Amusez-vous bien !
 
 **MXT** : Clique [ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file)
 
@@ -48,6 +58,10 @@ Bienvenue sur le Github de **Joueurs de COD** où vous pourrez trouver tout les 
 **AlwaysLoose** : Clique [ici](https://www.mediafire.com/file/4x8cc50oclusurb/Mw3_alwayslose.cc.rar/file)
 
 ## Call of Duty Downloads
+
+Découvrez l'intégralité de notre catalogue regroupant une variété de cracks que nous mettons à votre disposition. 
+
+Explorez, téléchargez et profitez de tout ce que notre communauté a à offrir. En cas de questions, de suggestions ou de retours, n'hésitez pas à nous contacter. Nous sommes là pour vous offrir la meilleure expérience de jeu possible. Merci de faire partie de la communauté des Joueurs de COD, où la passion du jeu est notre moteur principal. Profitez pleinement de votre aventure !
 
 **Call of Duty Black Ops 4** : Clique [ici](https://steamunlocked.net/4-call-of-duty-black-ops-4-free-download/)
 
