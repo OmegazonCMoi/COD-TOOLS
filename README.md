@@ -89,7 +89,7 @@ Explorez, téléchargez et profitez de tout ce que notre communauté a à offrir
 
 **Call of Duty Ghosts** : Clique [ici](https://steamunlocked.net/4-call-of-duty-ghosts-free-download/) 🟢
 
-## Call of Duty Aide
+## Call of Duty Help
 
 **Process Hacker**
 - Démarrez Process Hacker 2 en administrateur
