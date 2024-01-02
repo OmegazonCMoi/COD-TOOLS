@@ -93,13 +93,13 @@ Explorez, téléchargez et profitez de tout ce que notre communauté a à offrir
 
 **Process Hacker**
 - Démarrez Process Hacker 2 en administrateur
-- Vérifiez si vous n'avez pas d'antivirus qui bloque
+- Vérifiez si vous n'avez pas d'antivirus qui bloque Process Hacker de bien fonctionner
 - Re-installez Process Hacker 2
 
 **Black Ops 3**
 - Modifiez la priorité de votre jeu
 - Vérifiez vos fichiers via Steam
-- Vérifiez si vous n'avez pas d'antivirus qui bloque
+- Vérifiez si vous n'avez pas d'antivirus qui bloque Black Ops 3 de bien fonctionner
 - Re-installez le jeu (Si rien ne marche)
 
 **Cheats**
