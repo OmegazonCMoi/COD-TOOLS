@@ -37,6 +37,10 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **GSC Menus** : Clique [ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) 🟢
 
+**Simple Software** : Clique [ici](https://www.mediafire.com/file/88ejaufrno385ey/SimpleSoftware.rar/file) 🟢
+
+**T7 Legacy** : Clique [ici](https://www.mediafire.com/file/c5hukm0mas0nbat/t7-Legacy.rar/file) 🟢
+
 ### Call of Duty Black Ops 2
 
 **RMT** : Clique [ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file) 🟢
