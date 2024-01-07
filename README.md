@@ -37,9 +37,9 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **GSC Menus** : Clique [ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) 🟢
 
-**Simple Software** : Clique [ici](https://www.mediafire.com/file/88ejaufrno385ey/SimpleSoftware.rar/file) 🟢
+**Simple Software** : Clique [ici](https://mega.nz/file/UT9zXDjJ#lIhVf2Pxkm5Bq47cPW0FkCfbf32l9GXcMf5ceWLdnBU) 🟢
 
-**T7 Legacy** : Clique [ici](https://www.mediafire.com/file/c5hukm0mas0nbat/t7-Legacy.rar/file) 🟢
+**T7 Legacy** : Clique [ici](https://mega.nz/file/5KkUUYrR#i1AaPRddig6KRf7ncYFFZCkA8orTe5hakcy476vB3TA) 🟢
 
 ### Call of Duty Black Ops 2
 
