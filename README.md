@@ -51,6 +51,8 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **VMT** : Clique [ici](https://www.mediafire.com/file/46f0gswvus88jpu/vmt_mod_menu-compiled.gsc/file) 🟢
 
+**Nemesis** : Clique [ici](http://212.227.26.222/Cheat/Bo3/Nemesis.rar) 🟢
+
 ### Call of Duty Black Ops 1
 
 **Encore V8 Zombies** : Clique [ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file) 🟢
