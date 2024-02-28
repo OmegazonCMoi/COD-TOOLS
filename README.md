@@ -25,21 +25,21 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 ### Call of Duty Black Ops 3
 
-**MXT** : Clique [ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file) 🟢
+**MXT** : Clique [ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file) by MXT🟢
 
-**Scropts** : Clique [ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU) 🟢
+**Scropts** : Clique [ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU) by Scropts 🟢
 
-**NgBot** : Clique [ici](https://www.mediafire.com/file/zf0u5wdqbipr2bu/t7-niggerb0t-fixed-10-29-23.dll/file) 🟢
+**NgBot** : Clique [ici](https://www.mediafire.com/file/zf0u5wdqbipr2bu/t7-niggerb0t-fixed-10-29-23.dll/file) by InUrFace 🟢
 
-**Phantom** : Clique [ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I) 🟢
+**Phantom** : Clique [ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I) by Scropts 🟢
 
-**Godness** : Clique [ici](https://pastebin.com/iUVPmvRx) 🟢
+**Godness** : Clique [ici](https://pastebin.com/iUVPmvRx) by Wanted 🟢
 
-**GSC Menus** : Clique [ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) 🟢
+**GSC Menus** : Clique [ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) by ? 🟢
 
-**Simple Software** : Clique [ici](https://mega.nz/file/UT9zXDjJ#lIhVf2Pxkm5Bq47cPW0FkCfbf32l9GXcMf5ceWLdnBU) 🟢
+**Simple Software** : Clique [ici](https://mega.nz/file/UT9zXDjJ#lIhVf2Pxkm5Bq47cPW0FkCfbf32l9GXcMf5ceWLdnBU) by InUrFace and GodOfWary 🟢
 
-**T7 Legacy** : Clique [ici](https://mega.nz/file/5KkUUYrR#i1AaPRddig6KRf7ncYFFZCkA8orTe5hakcy476vB3TA) 🟢
+**T7 Legacy** : Clique [ici](https://mega.nz/file/5KkUUYrR#i1AaPRddig6KRf7ncYFFZCkA8orTe5hakcy476vB3TA) by ? 🟢
 
 ### Call of Duty Black Ops 2
 
