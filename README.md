@@ -41,6 +41,8 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **T7 Legacy** : Clique [ici](https://mega.nz/file/5KkUUYrR#i1AaPRddig6KRf7ncYFFZCkA8orTe5hakcy476vB3TA) by ? 🟢
 
+**AlwaysLose** : Clique [ici](https://www.mediafire.com/file/2tbjvqlsq9q03pd/alwayslose.dll/file) by CollinOnDex 🟢
+
 ### Call of Duty Black Ops 2
 
 **RMT** : Clique [ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file) 🟢
