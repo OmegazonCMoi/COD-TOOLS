@@ -79,8 +79,6 @@ Explorez, téléchargez et profitez de tout ce que notre communauté a à offrir
 
 **Call of Duty Black Ops 3** : Clique [ici](https://drive.google.com/file/d/1mhS_V6qJg7-wkcrbJ4TQWzq1uaWBej3N/view) 🟢
 
-**Call of Duty Black Ops 3 DLC** : Clique [ici](https://cdn.discordapp.com/attachments/1216406574180995133/1216406609790500896/t7_dlc.torrent?ex=660045ef&is=65edd0ef&hm=74b1fa8989f0cab25b833df838b01fd8817b3c797823c839c3a061fb6ba10795&) 🟢
-
 **Call of Duty Black Ops 2** : Clique [ici](https://drive.google.com/file/d/1gV6OBiJ_oZFLTDP4oPz9ILAmQBMCUAA9/view) 🟢
 
 **Call of Duty Black Ops 1** : Clique [ici](https://drive.google.com/file/d/1YjFkg3_gWjU7k8Pf82StKsHoItGt_-l6/view) 🟢
