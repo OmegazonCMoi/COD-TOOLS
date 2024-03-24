@@ -57,7 +57,7 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **Encore V8 Zombies** : Clique [ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file) 🟢
 
-**Encore V8 Multiplayer : Clique [ici](https://www.mediafire.com/file/ufaqzg46s3b6zji/EncoreV8+Multiplayer.rar/file) 🟢
+**Encore V8 Multiplayer** : Clique [ici](https://www.mediafire.com/file/ufaqzg46s3b6zji/EncoreV8+Multiplayer.rar/file) 🟢
 
 ### Call of Duty World at War
 
