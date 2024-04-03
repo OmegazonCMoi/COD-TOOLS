@@ -23,6 +23,16 @@ Naviguez à travers nos différentes catégories soigneusement organisées pour 
 
 N'hésitez pas à explorer, télécharger et profiter de tout ce que notre communauté a à offrir. Si vous avez des questions, des suggestions ou des retours, n'hésitez pas à nous contacter. Nous sommes là pour vous fournir la meilleure expérience de jeu possible. Merci de faire partie de la communauté des Joueurs de COD, où la passion du jeu est notre moteur principal. Amusez-vous bien !
 
+### Call of Duty Black Ops 4
+
+**Lucy menu ZM** : Clique [ici](https://github.com/TheUnknownCod3r/BO4-Lucy-Menu) 🟢
+
+**Lucy Menu MP** : Clique [ici](ttps://github.com/TheUnknownCod3r/BO4-Lucy-MP-Base) 🟢
+
+**Abomintation** : Clique [ici](https://github.com/SirCryptic/Abomination-Unofficial) 🟢
+
+**Atian** : Clique [ici](https://github.com/ate47/t8-atian-menu) 🟢
+
 ### Call of Duty Black Ops 3
 
 **MXT** : Clique [ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file) by MXT🟢
@@ -52,6 +62,24 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 **VMT** : Clique [ici](https://www.mediafire.com/file/46f0gswvus88jpu/vmt_mod_menu-compiled.gsc/file) 🟢
 
 **Nemesis** : Clique [ici](http://212.227.26.222/Cheat/Bo3/Nemesis.rar) 🟢
+
+**Echelon V2** : Clique [ici](https://www.mediafire.com/file/54t2l2h70f91emb/echelon_v2_mod_menu-compiled.gsc/file) 🟢
+
+**Keabadian V1** : Clique [ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file) 🟢
+
+**Solitary** : Clique [ici](https://www.mediafire.com/file/idvp40jtwyme4wq/solitary_mod_menu-compiled.gsc/file) 🟢
+
+**Evil Twin** : Clique [ici](https://www.mediafire.com/folder/powrexwrzut47/Evil+Twin+(V1)) 🟢
+
+**Revolution** : Clique [ici](https://www.mediafire.com/file/tvi6d23i0d6qc4n/Revolution_by_FBModderFresh.gscr/file) 🟢
+
+**Batman V14.8** : Clique [ici](https://www.mediafire.com/file/1prbd797z7p7d2k/BatMan+V14.8.rar) 🟢
+
+**Bossam V6** : Clique [ici](https://mega.nz/file/IkUkhK6L#4mFGX4J-cplFaGVuP2awBkyIapdy2vrrYApDrywXJPg) 🟢
+
+**Kamil** : Clique [ici](https://www.mediafire.com/file/0u25ej82jlzh79c/MhayzzKV8.gscr/file) 🟢
+
+**ZombieLand** : Clique [ici](https://www.mediafire.com/file/b1d64efos696sgl/Zombieland+By+GhostPants.zip) 🟢
 
 ### Call of Duty Black Ops 1
 
