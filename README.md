@@ -27,7 +27,7 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **Lucy menu ZM** : Clique [ici](https://github.com/TheUnknownCod3r/BO4-Lucy-Menu) 🟢
 
-**Lucy Menu MP** : Clique [ici](ttps://github.com/TheUnknownCod3r/BO4-Lucy-MP-Base) 🟢
+**Lucy Menu MP** : Clique [ici](https://github.com/TheUnknownCod3r/BO4-Lucy-MP-Base) 🟢
 
 **Abomintation** : Clique [ici](https://github.com/SirCryptic/Abomination-Unofficial) 🟢
 
