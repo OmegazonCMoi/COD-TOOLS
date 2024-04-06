@@ -85,6 +85,10 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **RDD** : Clique [ici](https://github.com/roachnacs/redemption-bo1-gsc) 🟢
 
+**Kino** : Clique [ici](https://cdn.discordapp.com/attachments/1225115364866658516/1226089789166719006/Release_KinoV1.2.zip?ex=66238019&is=66110b19&hm=ef4cb9a88fcde4d64e2c6d7ab1db945d7d97453847a24af3d21a99accbde99cb&) 🟢
+
+**Physics** : Clique [ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo) 🟢
+
 ### Call of Duty World at War
 
 **Elasticity** : Clique [ici](https://www.mediafire.com/file/h0jrwmsiqt79jzs/Elasticity.zip/file) 🟢
