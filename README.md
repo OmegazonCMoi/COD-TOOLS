@@ -45,7 +45,7 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **GSC Menus** : Clique [ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) by ? 🟢
 
-**Brad's Private Trickshotting** : Clique [ici](https://steamcommunity.com/sharedfiles/filedetails/?id=2079910029&searchtext=Mod+Menu) 🟢
+**Brad's Trickshotting** : Clique [ici](https://steamcommunity.com/sharedfiles/filedetails/?id=2079910029&searchtext=Mod+Menu) 🟢
 
 **EncoreV13** : Clique [ici](https://steamcommunity.com/sharedfiles/filedetails/?id=794367203&searchtext=Mod+Menu) 🟢
 
