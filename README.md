@@ -45,6 +45,12 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **GSC Menus** : Clique [ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) by ? 🟢
 
+**Brad's Private Trickshotting** : Clique [ici](https://steamcommunity.com/sharedfiles/filedetails/?id=2079910029&searchtext=Mod+Menu) 🟢
+
+**EncoreV13** : Clique [ici](https://steamcommunity.com/sharedfiles/filedetails/?id=794367203&searchtext=Mod+Menu) 🟢
+
+**SimpleMods2** : Clique [ici](https://steamcommunity.com/sharedfiles/filedetails/?id=1081550025&searchtext=Mod+Menu) 🟢
+
 ### Call of Duty Black Ops 2
 
 **RMT** : Clique [ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file) 🟢
@@ -74,6 +80,8 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 **Kamil** : Clique [ici](https://www.mediafire.com/file/0u25ej82jlzh79c/MhayzzKV8.gscr/file) 🟢
 
 **ZombieLand** : Clique [ici](https://www.mediafire.com/file/b1d64efos696sgl/Zombieland+By+GhostPants.zip) 🟢
+
+**Blazed** : Clique [ici](https://www.mediafire.com/?amkbj0fdk4mcff5) 🟢
 
 ### Call of Duty Black Ops 1
 
