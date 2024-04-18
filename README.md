@@ -25,7 +25,7 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 ### Call of Duty Black Ops 4
 
-**Unlock All** : Clioque [ici](https://www.mediafire.com/file/z4g7f1k1d2imz4m/ImGui+DirectX+11+Kiero+Hook.rar/file) 🟢
+**Unlock All** : Clique [ici](https://www.mediafire.com/file/z4g7f1k1d2imz4m/ImGui+DirectX+11+Kiero+Hook.rar/file) 🟢
 
 **Lucy menu ZM** : Clique [ici](https://github.com/TheUnknownCod3r/BO4-Lucy-Menu) 🟢
 
