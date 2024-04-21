@@ -63,8 +63,6 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **VMT** : Clique [ici](https://www.mediafire.com/file/46f0gswvus88jpu/vmt_mod_menu-compiled.gsc/file) 🟢
 
-**Nemesis** : Clique [ici](http://212.227.26.222/Cheat/Bo3/Nemesis.rar) 🟢
-
 **Echelon V2** : Clique [ici](https://www.mediafire.com/file/54t2l2h70f91emb/echelon_v2_mod_menu-compiled.gsc/file) 🟢
 
 **Keabadian V1** : Clique [ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file) 🟢
