@@ -113,25 +113,25 @@ Découvrez l'intégralité de notre catalogue regroupant une variété de cracks
 
 Explorez, téléchargez et profitez de tout ce que notre communauté a à offrir. En cas de questions, de suggestions ou de retours, n'hésitez pas à nous contacter. Nous sommes là pour vous offrir la meilleure expérience de jeu possible. Merci de faire partie de la communauté des Joueurs de COD, où la passion du jeu est notre moteur principal. Profitez pleinement de votre aventure !
 
-**Call of Duty Black Ops 4** : Clique [ici](https://steamunlocked.net/4-call-of-duty-black-ops-4-free-download/) 🟢
+**Call of Duty Black Ops 4** : Clique [ici](https://cdn.discordapp.com/attachments/1184104514974928968/1233814008663113828/Call.of.Duty.Black.Ops.4.zip.torrent?ex=662e7656&is=662d24d6&hm=cade0e77d133915d83933038cc9eabcd2574c44ca4db8e9c93ed1d3dc0f8d27b&) 🟢
 
-**Call of Duty Black Ops 3** : Clique [ici](https://drive.google.com/file/d/1mhS_V6qJg7-wkcrbJ4TQWzq1uaWBej3N/view) 🟢
+**Call of Duty Black Ops 3** : Clique [ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233811110432608346/t7_full_game.torrent?ex=662e73a3&is=662d2223&hm=d916500834aa51fadf895ddb5a6967e6b6e22f53fdd74a1c6a76675a0ab1d1bf&) 🟢
 
 **Call of Duty Black Ops 2** : Clique [ici](https://drive.google.com/file/d/1gV6OBiJ_oZFLTDP4oPz9ILAmQBMCUAA9/view) 🟢
 
-**Call of Duty Black Ops 1** : Clique [ici](https://drive.google.com/file/d/1YjFkg3_gWjU7k8Pf82StKsHoItGt_-l6/view) 🟢
+**Call of Duty Black Ops 1** : Clique [ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233811964426321930/pluto_t5_full_game.torrent?ex=662e746f&is=662d22ef&hm=eb6e0125aa7d27a903b85685207ffe03a1a265745fcf5cbddd61e8a374107a76&) 🟢
 
 **Call of Duty Infinite Warfare** : Clique [ici](https://steamunlocked.net/3-call-of-duty-infinite-warfare-free-download/) 🟢
 
 **Call of Duty World War 2** : Clique [ici](https://steamunlocked.net/b67926-call-of-duty-ww2-free-download/) 🟢
 
-**Call of Duty 4: Modern Warfare** : Clique [ici](https://steamunlocked.net/27-call-of-duty-4-modern-warfare-free-latest-download/) 🟢
+**Call of Duty 4: Modern Warfare** : Clique [ici](https://www.mediafire.com/file/498gner89hj16mc/COD4.zip/file) 🟢
 
 **Call of Duty Modern Warfare 3** : Clique [ici](https://steamunlocked.net/25-call-of-duty-modern-warfare-3-free-download-2/) 🟢
 
-**Call of Duty Advanced Warfare** : Clique [ici](https://steamunlocked.net/c55910-call-of-duty-advanced-warfare-free-download/) 🟢
+**Call of Duty Advanced Warfare** : Clique [ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233809762622115910/s1x_full_game.torrent?ex=662e7262&is=662d20e2&hm=907a1b20b74af3361e83be49bc3a54a39e318a7c9c27e9fc969d40235659a6b1&) 🟢
 
-**Call of Duty Ghosts** : Clique [ici](https://steamunlocked.net/4-call-of-duty-ghosts-free-download/) 🟢
+**Call of Duty Ghosts** : Clique [ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233810146120175669/iw6x_full_game.torrent?ex=662e72bd&is=662d213d&hm=7151d03aa5eff273298eb7a5a6f6f30c1c49ec844b5a8636f2550e4677fd6c21&) 🟢
 
 ## Call of Duty Help
 
