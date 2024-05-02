@@ -185,6 +185,8 @@ Call of Duty Ghosts : **IW6-Mod** : Clique [ici](https://mega.nz/file/UDFm1b7Y#r
 - Vérifiez bien que vous avez bien tous les fichiers (si nécéssaire)
 
 **Autre**
+- Redémarrez votre PC
+- Désactivez tout VPN
 - Demandez sur le serveur !
 
 Merci de votre visite sur le Github de Joueurs de COD. Nous espérons que vous avez trouvé tout ce que vous cherchiez. Pour toute autre question, n'hésitez pas à nous contacter.
