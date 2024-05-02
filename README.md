@@ -2,6 +2,8 @@
 
 Bienvenue sur le Github de Joueurs de COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils et bien plus encore, soigneusement sélectionnés pour améliorer votre expérience de jeu.
 
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com) 
+
 Plongez dans notre bibliothèque virtuelle, où vous trouverez non seulement des éléments classiques pour enrichir votre gameplay, mais également des créations originales et innovantes provenant de notre communauté passionnée de joueurs de Call of Duty. Que vous soyez un vétéran chevronné ou un nouvel arrivant dans l'univers du jeu, notre Github offre quelque chose pour tous les goûts et tous les niveaux de compétence.
 
 N'oubliez pas de consulter régulièrement notre page, car nous mettons constamment à jour notre collection pour vous offrir les dernières nouveautés et les meilleurs ajouts. Si vous avez des questions, des suggestions ou si vous cherchez quelque chose de spécifique, n'hésitez pas à participer à nos discussions sur le forum ou à nous contacter directement. L'équipe des Joueurs de COD est là pour vous accompagner dans votre aventure gaming. Profitez pleinement de votre expérience Call of Duty avec notre sélection exclusive de fichiers sur notre Github dédié !
