@@ -103,7 +103,13 @@ N'hésitez pas à explorer, télécharger et profiter de tout ce que notre commu
 
 **Discarded** : Clique [ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded%20V3%20-%20T4%20Mod%20Menu.7z/file) 🟢
 
+**No Name** : Clique [ici](https://mega.nz/file/cfEEHIKI#dAy9mMWGiMCryE77vy4K075s01Tb0EFKjBxk_m7u2c4) 🟢
+
+**Zombie Trainer** : Clique [ici](https://mega.nz/file/kDFxVL4J#gtJIAZrg8DYPMJ8RY0c4ih78H4nb-154-ch1Go6ozSo) 🟢
+
 ### Call of Duty Modern Warfare 3
+
+**MW3 Haks** : Clique [ici](https://mega.nz/file/5X12zIIK#bcUsqJnKaAheigHCo_k7ezWeGZehZ8kfDBy7l1I5R6o) 🟢
 
 **AlwaysLoose** : Clique [ici](https://www.mediafire.com/file/4x8cc50oclusurb/Mw3_alwayslose.cc.rar/file) 🔴
 
