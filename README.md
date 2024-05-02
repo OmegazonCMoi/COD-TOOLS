@@ -161,7 +161,7 @@ Call of Duty Modern Warfare 3 : **Plutonium** : Clique [ici](https://plutonium.p
 
 Call of Duty Advanced Wafare : **S1X-Mod** : Clique [ici](https://mega.nz/file/sflhEByC#uvY4sFzEEFx2MBSUDJTMZWl3Vifdr-H-v6BgqphjTBQ) 🟢
 
-Call of Duty Black ops Cold War : **Discord Game SDK** : Clique [ici](https://mega.nz/file/UDFm1b7Y#rYrTejV-Im2e55WFkV9dQActOzRZ4v8hqSwhcWAaJL8) 🟢
+Call of Duty Black ops Cold War : **Game SDK** : Clique [ici](https://mega.nz/file/UDFm1b7Y#rYrTejV-Im2e55WFkV9dQActOzRZ4v8hqSwhcWAaJL8) 🟢
 
 Call of Duty Ghosts : **IW6-Mod** : Clique [ici](https://mega.nz/file/UDFm1b7Y#rYrTejV-Im2e55WFkV9dQActOzRZ4v8hqSwhcWAaJL8) 🟢
 
