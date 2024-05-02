@@ -125,9 +125,9 @@ Explorez, téléchargez et profitez de tout ce que notre communauté a à offrir
 
 **Call of Duty Black Ops 3** : Clique [ici](https://mega.nz/file/dDl0xZIJ#Kcz4qQbukS5ua_SwFxug9Z5z3FfDEHCWGu2XJN_8frE) 🟢
 
-**Call of Duty Black Ops 2** : Clique [ici](https://drive.google.com/file/d/1gV6OBiJ_oZFLTDP4oPz9ILAmQBMCUAA9/view) 🟢
+**Call of Duty Black Ops 2** : Clique [ici](https://mega.nz/file/0GlxgBIR#RJoaHDXQIZDQ1F-crJvSkozAcYVhqeCzeVgGwSOoc_s) 🟢
 
-**Call of Duty Black Ops 1** : Clique [ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233811964426321930/pluto_t5_full_game.torrent?ex=662e746f&is=662d22ef&hm=eb6e0125aa7d27a903b85685207ffe03a1a265745fcf5cbddd61e8a374107a76&) 🟢
+**Call of Duty Black Ops 1** : Clique [ici](https://mega.nz/file/UOF0ibKT#Z4SMTDrUJKjvnovsPEZ_W9rggrLRlJrwF7KCpiCw218) 🟢
 
 **Call of Duty Infinite Warfare** : Clique [ici](https://steamunlocked.net/3-call-of-duty-infinite-warfare-free-download/) 🟢
 
