@@ -168,19 +168,26 @@ Call of Duty Ghosts : **IW6-Mod** : Clique [ici](https://mega.nz/file/UDFm1b7Y#r
 
 **Process Hacker**
 - Démarrez Process Hacker 2 en administrateur
-- Vérifiez si vous n'avez pas d'antivirus qui bloque Process Hacker de bien fonctionner
-- Re-installez Process Hacker 2
+- Vérifiez que vous êtes sur l'onglet ''Processus''
+- Cherchez le processus ''t6mp.exe'' (Black Ops 2) ou ''t6zm.exe'' (Zombies)
+- Cliquez droit puis ''Propriétés''
+- Accédez à l'onglet ''Options''
+- Cochez la case ''Cache''
+- Profitez d'un jeu fluide !
 
-**Black Ops 3**
-- Modifiez la priorité de votre jeu
-- Mettez votre jeu en mode fenêtré
-- Vérifiez vos fichiers via Steam
-- Vérifiez si vous n'avez pas d'antivirus qui bloque Black Ops 3 de bien fonctionner
-- Re-installez le jeu (Si rien ne marche)
+**W7-Cheats**
+- Pour le menu de base appuyez sur la touche ''Insert''
+- Pour ouvrir la console appuyez sur ''F10''
+- Pour la fermer appuyez sur ''F10'' encore une fois
 
-**Cheats**
-- Vérifiez bien que vous avez la version proposé ici
-- Vérifiez bien que vous avez bien tous les fichiers (si nécéssaire)
+**Bypass-TeamViewer**
+- Téléchargez le bypass [ici](https://mega.nz/file/hU5hGI4Z#j9cGLRcTsZxjGQHrgqK8wk_CkAKPCrpsAqH-W9EJxMM)
+- Extraire le fichier
+- Lancez l'exécutable
+- Ouvrez TeamViewer
 
-**Autre**
-- Demandez sur le serveur !
+Merci de votre visite sur le Github de Joueurs de COD. Nous espérons que vous avez trouvé tout ce que vous cherchiez. Pour toute autre question, n'hésitez pas à nous contacter.
+
+---
+
+*Ces fichiers sont destinés à un usage éducatif uniquement. L'utilisation de cheats ou de versions modifiées de jeux peut entraîner la suspension ou l'interdiction de votre compte par l'éditeur du jeu. Utilisez-les à vos propres risques.*
