@@ -129,7 +129,7 @@ Explorez, téléchargez et profitez de tout ce que notre communauté a à offrir
 
 **Call of Duty Black Ops 1** : Clique [ici](https://mega.nz/file/UOF0ibKT#Z4SMTDrUJKjvnovsPEZ_W9rggrLRlJrwF7KCpiCw218) 🟢
 
-**Call of Duty Infinite Warfare** : Clique [ici](https://steamunlocked.net/3-call-of-duty-infinite-warfare-free-download/) 🟢
+**Call of Duty Infinite Warfare** : Clique [ici](https://mega.nz/file/4PdiELjS#Cj9yGrkOPXDWnWRjeE1A66pl9u_UGIxOmWsQycjYvUo) 🟢
 
 **Call of Duty World War 2** : Clique [ici](https://steamunlocked.net/b67926-call-of-duty-ww2-free-download/) 🟢
 
