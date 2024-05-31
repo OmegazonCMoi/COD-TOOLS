@@ -23,7 +23,7 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 </p>
 
 <p align="center">
-⚠️ Nous nous engageons à garantir une expérience de jeu optimale en vérifiant rigoureusement tous les fichiers que nous mettons à votre disposition. Chaque fichier subit un processus de contrôle approfondi pour s'assurer de son intégrité, de sa fiabilité et de sa conformité aux normes de la communauté.⚠️
+⚠️ Nous nous engageons à garantir une expérience de jeu optimale en vérifiant rigoureusement tous les fichiers que nous mettons à votre disposition. Chaque fichier subit un processus de contrôle approfondi pour s'assurer de son intégrité, de sa fiabilité et de sa conformité aux normes de la communauté. ⚠️
 </p>
 
 <div align="center">
