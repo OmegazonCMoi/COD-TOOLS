@@ -28,7 +28,7 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 <div align="center">
 
-## 🔥 **Call of Duty Cheats**
+## 🔥 **Call of Duty Cheats** 🔥
 
 ### **Call of Duty Black Ops 4**
 
@@ -116,7 +116,7 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 **🚫 AlwaysLoose** : [Clique ici](https://www.mediafire.com/file/4x8cc50oclusurb/Mw3_alwayslose.cc.rar/file) 🔴
 
-## 🚀 **Call of Duty Downloads**
+## 🚀 **Call of Duty Downloads** 🚀
 
 **Call of Duty Black Ops 4** : [Clique ici](https://mega.nz/file/VbcnTYha#5jmDU9uuMQOpz-P2_RsdL7c7FtbXIhfXPiubCWLzheM) 🟢
 
@@ -138,7 +138,7 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 **Call of Duty Ghosts** : [Clique ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233810146120175669/iw6x_full_game.torrent?ex=662e72bd&is=662d213d&hm=7151d03aa5eff273298eb7a5a6f6f30c1c49ec844b5a8636f2550e4677fd6c21&) 🟢
 
-## 🎮 **Call of Duty Clients**
+## 🎮 **Call of Duty Clients** 🎮
 
 **Call of Duty Black Ops 4 : Project BO4** : [Clique ici](https://github.com/project-bo4/shield-development) 🟢
 
@@ -160,7 +160,7 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 **Call of Duty Ghosts : IW6-Mod** : [Clique ici](https://mega.nz/file/UDFm1b7Y#rYrTejV-Im2e55WFkV9dQActOzRZ4v8hqSwhcWAaJL8) 🟢
 
-## 💡 **Call of Duty Help**
+## 💡 **Call of Duty Help** 💡
 
 **Process Hacker** <br>
 Démarrez Process Hacker 2 en administrateur <br>
