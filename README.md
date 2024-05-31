@@ -162,24 +162,24 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 ## 💡 **Call of Duty Help**
 
 **Process Hacker**
-Démarrez Process Hacker 2 en administrateur
-Vérifiez si vous n'avez pas d'antivirus qui bloque Process Hacker de bien fonctionner
-Re-installez Process Hacker 2
+Démarrez Process Hacker 2 en administrateur <br>
+Vérifiez si vous n'avez pas d'antivirus qui bloque Process Hacker de bien fonctionner <br>
+Re-installez Process Hacker 2 
 
 **Black Ops 3**
-Modifiez la priorité de votre jeu
-Mettez votre jeu en mode fenêtré
-Vérifiez vos fichiers via Steam
-Vérifiez si vous n'avez pas d'antivirus qui bloque Black Ops 3 de bien fonctionner
+Modifiez la priorité de votre jeu <br>
+Mettez votre jeu en mode fenêtré <br>
+Vérifiez vos fichiers via Steam <br>
+Vérifiez si vous n'avez pas d'antivirus qui bloque Black Ops 3 de bien fonctionner <br>
 Re-installez le jeu (Si rien ne marche)
 
 **Cheats**
-Vérifiez bien que vous avez la version proposée ici
+Vérifiez bien que vous avez la version proposée ici <br>
 Vérifiez bien que vous avez bien tous les fichiers (si nécessaire)
 
 **Autre**
-Redémarrez votre PC
-Désactivez tout VPN
+Redémarrez votre PC <br>
+Désactivez tout VPN <br>
 Demandez sur le serveur !
 
 Merci de votre visite sur le Github de Joueurs de COD. Nous espérons que vous avez trouvé tout ce que vous cherchiez. Pour toute autre question, n'hésitez pas à nous contacter.
