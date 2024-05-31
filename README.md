@@ -140,25 +140,21 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 ## 🎮 **Call of Duty Clients** 🎮
 
-**Call of Duty Black Ops 4 : Project BO4** : [Clique ici](https://github.com/project-bo4/shield-development) 🟢
+**Project BO4** : [Clique ici](https://github.com/project-bo4/shield-development) 🟢
 
-**Call of Duty Black Ops 3 : Ezz Client** : [Clique ici](https://github.com/Ezz-lol/boiii-free) 🟢
+**Ezz Client** : [Clique ici](https://github.com/Ezz-lol/boiii-free) 🟢
 
-**Call of Duty Black Ops 2 : Plutonium** : [Clique ici](https://plutonium.pw) 🟢
+**Plutonium** : [Clique ici](https://plutonium.pw) 🟢
 
-**Call of Duty Black Ops 1 : Plutonium** : [Clique ici](https://plutonium.pw) 🟢
+**IW7-Mod** : [Clique ici](https://github.com/auroramod/iw7-mod) 🟢
 
-**Call of Duty Infinite Warfare : IW7-Mod** : [Clique ici](https://github.com/auroramod/iw7-mod) 🟢
+**COD4X-Mod** : [Clique ici](https://cod4x.ovh/t/releases/24) 🟢
 
-**Call of Duty 4 Modern Warfare : COD4X-Mod** : [Clique ici](https://cod4x.ovh/t/releases/24) 🟢
+**S1X-Mod** : [Clique ici](https://mega.nz/file/sflhEByC#uvY4sFzEEFx2MBSUDJTMZWl3Vifdr-H-v6BgqphjTBQ) 🟢
 
-**Call of Duty Modern Warfare 3 : Plutonium** : [Clique ici](https://plutonium.pw) 🟢
+**Game SDK** : [Clique ici](https://mega.nz/file/UDFm1b7Y#rYrTejV-Im2e55WFkV9dQActOzRZ4v8hqSwhcWAaJL8) 🟢
 
-**Call of Duty Advanced Warfare : S1X-Mod** : [Clique ici](https://mega.nz/file/sflhEByC#uvY4sFzEEFx2MBSUDJTMZWl3Vifdr-H-v6BgqphjTBQ) 🟢
-
-**Call of Duty Black ops Cold War : Game SDK** : [Clique ici](https://mega.nz/file/UDFm1b7Y#rYrTejV-Im2e55WFkV9dQActOzRZ4v8hqSwhcWAaJL8) 🟢
-
-**Call of Duty Ghosts : IW6-Mod** : [Clique ici](https://mega.nz/file/UDFm1b7Y#rYrTejV-Im2e55WFkV9dQActOzRZ4v8hqSwhcWAaJL8) 🟢
+**IW6-Mod** : [Clique ici](https://mega.nz/file/UDFm1b7Y#rYrTejV-Im2e55WFkV9dQActOzRZ4v8hqSwhcWAaJL8) 🟢
 
 ## 💡 **Call of Duty Help** 💡
 
