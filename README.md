@@ -161,23 +161,23 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 ## 💡 **Call of Duty Help**
 
-**Process Hacker**
+**Process Hacker** <br>
 Démarrez Process Hacker 2 en administrateur <br>
 Vérifiez si vous n'avez pas d'antivirus qui bloque Process Hacker de bien fonctionner <br>
 Re-installez Process Hacker 2 
 
-**Black Ops 3**
+**Black Ops 3** <br>
 Modifiez la priorité de votre jeu <br>
 Mettez votre jeu en mode fenêtré <br>
 Vérifiez vos fichiers via Steam <br>
 Vérifiez si vous n'avez pas d'antivirus qui bloque Black Ops 3 de bien fonctionner <br>
 Re-installez le jeu (Si rien ne marche)
 
-**Cheats**
+**Cheats** <br>
 Vérifiez bien que vous avez la version proposée ici <br>
 Vérifiez bien que vous avez bien tous les fichiers (si nécessaire)
 
-**Autre**
+**Autre** <br>
 Redémarrez votre PC <br>
 Désactivez tout VPN <br>
 Demandez sur le serveur !
