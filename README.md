@@ -25,9 +25,6 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 > [!NOTE] 
 > Nous nous engageons à garantir une expérience de jeu optimale en vérifiant rigoureusement tous les fichiers que nous mettons à votre disposition. Chaque fichier subit un processus de contrôle approfondi pour s'assurer de son intégrité, de sa fiabilité et de sa conformité aux normes de la communauté.
 
-Bien sûr ! Voici une version encore plus attrayante :
-
----
 <p align="center">
 
 ## 🔥 **Call of Duty Cheats**
