@@ -5,7 +5,7 @@
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 
 <p align="center">
-Les fichiers proposés ci-dessous sont classés en plusieurs catégories :
+Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 🟢 : Tout est bon !  🟠 : Attention faites gaffe !  🔴 : Déconseillé !  ⚪ : Pas testé !
 </p>
 > [!NOTE] 
