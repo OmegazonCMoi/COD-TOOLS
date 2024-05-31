@@ -22,10 +22,9 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 🟢 : Tout est bon ! &nbsp;&nbsp;&nbsp; 🟠 : Attention faites gaffe ! &nbsp;&nbsp;&nbsp; 🔴 : Déconseillé ! &nbsp;&nbsp;&nbsp; ⚪ : Pas testé !
 </p>
 
-<div align="center">
-> [!NOTE] 
-> Nous nous engageons à garantir une expérience de jeu optimale en vérifiant rigoureusement tous les fichiers que nous mettons à votre disposition. Chaque fichier subit un processus de contrôle approfondi pour s'assurer de son intégrité, de sa fiabilité et de sa conformité aux normes de la communauté.
-</div>
+<p align="center">
+⚠️ Nous nous engageons à garantir une expérience de jeu optimale en vérifiant rigoureusement tous les fichiers que nous mettons à votre disposition. Chaque fichier subit un processus de contrôle approfondi pour s'assurer de son intégrité, de sa fiabilité et de sa conformité aux normes de la communauté.⚠️
+</p>
 
 <div align="center">
 
