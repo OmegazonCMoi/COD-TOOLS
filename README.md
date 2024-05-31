@@ -4,6 +4,15 @@
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 
+<p align='center'>
+  <a href="https://discord.gg/cod-fr">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCemI3wc64mr-lCyVysZZ0Eg">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
+
 <p align="center">
 Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 🟢 : Tout est bon ! 🟠 : Attention faites gaffe ! 🔴 : Déconseillé ! ⚪ : Pas testé !
