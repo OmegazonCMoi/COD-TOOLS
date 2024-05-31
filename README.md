@@ -13,12 +13,6 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 ## Call of Duty Cheats
 
-Explorez notre catalogue exhaustif qui regroupe l'ensemble des cheats que nous mettons à votre disposition. Qu'il s'agisse de mods novateurs, de scripts astucieux, d'outils pratiques ou d'autres ressources passionnantes, tout est réuni ici pour enrichir votre expérience de jeu dans l'univers captivant de Call of Duty.
-
-Naviguez à travers nos différentes catégories soigneusement organisées pour trouver exactement ce que vous recherchez. Nous mettons un point d'honneur à offrir une diversité de fichiers pour satisfaire tous les goûts et styles de jeu. Notre équipe dévouée s'assure que chaque fichier proposé répond aux normes de qualité les plus élevées, garantissant ainsi une expérience de jeu sans accroc.
-
-N'hésitez pas à explorer, télécharger et profiter de tout ce que notre communauté a à offrir. Si vous avez des questions, des suggestions ou des retours, n'hésitez pas à nous contacter. Nous sommes là pour vous fournir la meilleure expérience de jeu possible. Merci de faire partie de la communauté des Joueurs de COD, où la passion du jeu est notre moteur principal. Amusez-vous bien !
-
 ### Call of Duty Black Ops 4
 
 **Unlock All** : Clique [ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY) 🟢
