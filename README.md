@@ -4,12 +4,10 @@
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 
+<p align="center">
 Les fichiers proposés ci-dessous sont classés en plusieurs catégories :
-- 🟢 : Tout est bon !
-- 🟠 : Attention faites gaffe !
-- 🔴 : Déconseillé !
-- ⚪ : Pas testé !
-
+🟢 : Tout est bon !  🟠 : Attention faites gaffe !  🔴 : Déconseillé !  ⚪ : Pas testé !
+</p>
 > [!NOTE] 
 > Nous nous engageons à garantir une expérience de jeu optimale en vérifiant rigoureusement tous les fichiers que nous mettons à votre disposition. Chaque fichier subit un processus de contrôle approfondi pour s'assurer de son intégrité, de sa fiabilité et de sa conformité aux normes de la communauté.
 
