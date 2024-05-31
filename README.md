@@ -44,15 +44,15 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 ### **Call of Duty Black Ops 3**
 
-**🔥 MXT** : [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file) by MXT 🟢
+**🔥 MXT** : [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file) 🟢
 
-**🎯 Scropts** : [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU) by Scropts 🟢
+**🎯 Scropts** : [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU) 🟢
 
-**👻 Phantom** : [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I) by Scropts 🟢
+**👻 Phantom** : [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I) 🟢
 
-**💪 Godness** : [Clique ici](https://pastebin.com/iUVPmvRx) by Wanted 🟢
+**💪 Godness** : [Clique ici](https://pastebin.com/iUVPmvRx) 🟢
 
-**🌀 GSC Menus** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) by ? 🟢
+**🌀 GSC Menus** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) 🟢
 
 **🎯 Brad's Trickshotting** : [Clique ici](https://steamcommunity.com/sharedfiles/filedetails/?id=2079910029&searchtext=Mod+Menu) 🟢
 
