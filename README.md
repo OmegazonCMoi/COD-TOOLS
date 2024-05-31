@@ -1,6 +1,6 @@
 <h1 align="center">Call of Duty Tools</h1>
 
-Bienvenue sur le Github de Joueurs de COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils et bien plus encore, soigneusement sélectionnés pour améliorer votre expérience de jeu.
+<p align="center">Bienvenue sur le Github de Joueurs de COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils et bien plus encore, soigneusement sélectionnés pour améliorer votre expérience de jeu. </p>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 
