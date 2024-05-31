@@ -25,7 +25,7 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 > [!NOTE] 
 > Nous nous engageons à garantir une expérience de jeu optimale en vérifiant rigoureusement tous les fichiers que nous mettons à votre disposition. Chaque fichier subit un processus de contrôle approfondi pour s'assurer de son intégrité, de sa fiabilité et de sa conformité aux normes de la communauté.
 
-<p align="center">
+<div align="center">
 
 ## 🔥 **Call of Duty Cheats**
 
@@ -194,4 +194,4 @@ Merci de votre visite sur le Github de Joueurs de COD. Nous espérons que vous a
 
 *Ces fichiers sont destinés à un usage éducatif uniquement. L'utilisation de cheats ou de versions modifiées de jeux peut entraîner la suspension ou l'interdiction de votre compte par l'éditeur du jeu. Utilisez-les à vos propres risques.*
 
-</p>
+</div>
