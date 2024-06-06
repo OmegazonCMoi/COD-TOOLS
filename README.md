@@ -146,7 +146,7 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 **Plutonium** : [Clique ici](https://plutonium.pw) 🟢
 
-**IW7-Mod** : [Clique ici](https://mega.nz/file/sL91DDqS#4JqDw-nxF3gdK7SECmb5x79972Pc-Idl0NLMRktxnWo) 🟢
+**IW7-Mod** : [Clique ici](https://mega.nz/file/BLtRUTbJ#RxN7dcWEdlUtqRT1caQbtAvGdFWIiqHQF3kuM9ym-x0) 🟢
 
 **COD4X-Mod** : [Clique ici](https://cod4x.ovh/t/releases/24) 🟢
 
