@@ -34,17 +34,17 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 **--DLL Menus--**
 
-**🔓 Unlock All** : [Clique ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY) 🟢
+🔓 Unlock All : [Clique ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY) 🟢
 
 **--GSC Menus--**
 
-**👾 Lucy Menu ZM** : [Clique ici](https://github.com/TheUnknownCod3r/BO4-Lucy-Menu) 🟢
+👾 Lucy Menu ZM : [Clique ici](https://github.com/TheUnknownCod3r/BO4-Lucy-Menu) 🟢
 
-**🎮 Lucy Menu MP** : [Clique ici](https://github.com/TheUnknownCod3r/BO4-Lucy-MP-Base) 🟢
+🎮 Lucy Menu MP : [Clique ici](https://github.com/TheUnknownCod3r/BO4-Lucy-MP-Base) 🟢
 
-**👹 Abomination** : [Clique ici](https://github.com/SirCryptic/Abomination-Unofficial) 🟢
+👹 Abomination : [Clique ici](https://github.com/SirCryptic/Abomination-Unofficial) 🟢
 
-**🌟 Atian** : [Clique ici](https://github.com/ate47/t8-atian-menu) 🟢
+🌟 Atian : [Clique ici](https://github.com/ate47/t8-atian-menu) 🟢
 
 ### **Call of Duty Black Ops 3**
 
