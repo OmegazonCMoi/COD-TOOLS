@@ -1,116 +1,86 @@
-<h1>Call of Duty Tools</h1>
+<h1 align="center">Call of Duty Tools</h1>
 
-<p>Bienvenue sur le GitHub de Joueurs de COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils etc... soigneusement sélectionnés pour améliorer votre expérience de jeu. </p>
-
-<p>
+<p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" alt="Made with C++"></a>
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-c-sharp.svg" alt="Made with C#"></a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://discord.gg/cod-fr">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.youtube.com/@OmegaSurCOD">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
-<p>
-Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
-🟢 : Tout est bon ! &nbsp;&nbsp;&nbsp; 🟠 : Attention faites gaffe ! &nbsp;&nbsp;&nbsp; 🔴 : Déconseillé ! &nbsp;&nbsp;&nbsp; ⚪ : Pas testé !
-</p>
+<p>Bienvenue sur le GitHub de Joueurs de COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils, etc., soigneusement sélectionnés pour améliorer votre expérience de jeu.</p>
 
-<p>
-⚠️ Nous nous engageons à vérifier tous les fichiers que nous postons sur ce GitHub. ⚠️
-</p>
+## Légende des fichiers
+- 🟢 : Tout est bon !
+- 🟠 : Attention, faites gaffe !
+- 🔴 : Déconseillé !
+- ⚪ : Pas testé !
 
-<div>
+<p><strong>⚠️ Nous nous engageons à vérifier tous les fichiers que nous postons sur ce GitHub. ⚠️</strong></p>
 
 ## 🔥 **Call of Duty Cheats** 🔥
 
 ### **Call of Duty Black Ops 4**
 
-**--DLL Menus--**
+#### --DLL Menus--
+- 🔓 **Unlock All** : [Clique ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY) 🟢
 
-🔓 Unlock All : [Clique ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY) 🟢
-
-**--GSC Menus--**
-
-👹 Abomination : [Clique ici](https://github.com/SirCryptic/Abomination-Unofficial) 🟢  
-🌟 Atian : [Clique ici](https://github.com/ate47/t8-atian-menu) 🟢  
-👾 Lucy Menu ZM : [Clique ici](https://github.com/TheUnknownCod3r/BO4-Lucy-Menu) 🟢  
-🎮 Lucy Menu MP : [Clique ici](https://github.com/TheUnknownCod3r/BO4-Lucy-MP-Base) 🟢
+#### --GSC Menus--
+- 👹 **Abomination** : [Clique ici](https://github.com/SirCryptic/Abomination-Unofficial) 🟢
+- 🌟 **Atian** : [Clique ici](https://github.com/ate47/t8-atian-menu) 🟢
+- 👾 **Lucy Menu ZM** : [Clique ici](https://github.com/TheUnknownCod3r/BO4-Lucy-Menu) 🟢
+- 🎮 **Lucy Menu MP** : [Clique ici](https://github.com/TheUnknownCod3r/BO4-Lucy-MP-Base) 🟢
 
 ### **Call of Duty Black Ops 3**
 
-**--DLL Menus--**
+#### --DLL Menus--
+- 💪 **Godness** : [Clique ici](https://pastebin.com/iUVPmvRx) 🟢
+- 🔥 **MXT** : [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file) 🟢
+- 👻 **Phantom** : [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I) 🟢
+- 🎯 **Scropts** : [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU) 🟢
 
-💪 Godness : [Clique ici](https://pastebin.com/iUVPmvRx) 🟢  
-🔥 MXT : [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file) 🟢  
-👻 Phantom : [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I) 🟢  
-🎯 Scropts : [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU) 🟢
-
-**--GSC Menus--**
-
-🎯 Brad's Trickshotting : [Clique ici](https://steamcommunity.com/sharedfiles/filedetails/?id=2079910029&searchtext=Mod+Menu) 🟢  
-🌪️ EncoreV13 : [Clique ici](https://steamcommunity.com/sharedfiles/filedetails/?id=794367203&searchtext=Mod+Menu) 🟢  
-🌀 GSC Menus : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) 🟢
+#### --GSC Menus--
+- 🎯 **Brad's Trickshotting** : [Clique ici](https://steamcommunity.com/sharedfiles/filedetails/?id=2079910029&searchtext=Mod+Menu) 🟢
+- 🌪️ **EncoreV13** : [Clique ici](https://steamcommunity.com/sharedfiles/filedetails/?id=794367203&searchtext=Mod+Menu) 🟢
+- 🌀 **GSC Menus** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) 🟢
 
 ### **Call of Duty Black Ops 2**
 
-**--GSC Menus--**
-
-🦇 Batman V14.8 : [Clique ici](https://www.mediafire.com/file/1prbd797z7p7d2k/BatMan+V14.8.rar) 🟢  
-🔥 Bossam V6 : [Clique ici](https://mega.nz/file/IkUkhK6L#4mFGX4J-cplFaGVuP2awBkyIapdy2vrrYApDrywXJPg) 🟢  
-🌀 Echelon V2 : [Clique ici](https://www.mediafire.com/file/54t2l2h70f91emb/echelon_v2_mod_menu-compiled.gsc/file) 🟢  
-💥 Evil Twin : [Clique ici](https://www.mediafire.com/folder/powrexwrzut47/Evil+Twin+(V1)) 🟢  
-🌈 Keabadian V1 : [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file) 🟢  
-🛡️ Kamil : [Clique ici](https://www.mediafire.com/file/0u25ej82jlzh79c/MhayzzKV8.gscr/file) 🟢  
-💣 The Final Statement : [Clique ici](https://www.mediafire.com/file/077hcbargt7pcq0/The_Final_Statement_0.5.rar/file) 🟢  
-⚡ Purgatory : [Clique ici](https://www.mediafire.com/file/dkmclt7y8fwm9k7/the_purgatory_mod_menu-compiled.gsc/file) 🟢  
-👑 Revolution : [Clique ici](https://www.mediafire.com/file/tvi6d23i0d6qc4n/Revolution_by_FBModderFresh.gscr/file) 🟢  
-🔥 RMT : [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file) 🟢  
-🔥 Solitary : [Clique ici](https://www.mediafire.com/file/idvp40jtwyme4wq/solitary_mod_menu-compiled.gsc/file) 🟢  
-🔫 VMT : [Clique ici](https://www.mediafire.com/file/46f0gswvus88jpu/vmt_mod_menu-compiled.gsc/file) 🟢  
-💥 ZombieLand : [Clique ici](https://www.mediafire.com/file/b1d64efos696sgl/Zombieland+By+GhostPants.zip) 🟢
+#### --GSC Menus--
+- 🦇 **Batman V14.8** : [Clique ici](https://www.mediafire.com/file/1prbd797z7p7d2k/BatMan+V14.8.rar) 🟢
+- 🔥 **Bossam V6** : [Clique ici](https://mega.nz/file/IkUkhK6L#4mFGX4J-cplFaGVuP2awBkyIapdy2vrrYApDrywXJPg) 🟢
+- 🌀 **Echelon V2** : [Clique ici](https://www.mediafire.com/file/54t2l2h70f91emb/echelon_v2_mod_menu-compiled.gsc/file) 🟢
+- 💥 **Evil Twin** : [Clique ici](https://www.mediafire.com/folder/powrexwrzut47/Evil+Twin+(V1)) 🟢
+- 🌈 **Keabadian V1** : [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file) 🟢
+- 🛡️ **Kamil** : [Clique ici](https://www.mediafire.com/file/0u25ej82jlzh79c/MhayzzKV8.gscr/file) 🟢
+- 💣 **The Final Statement** : [Clique ici](https://www.mediafire.com/file/077hcbargt7pcq0/The_Final_Statement_0.5.rar/file) 🟢
+- ⚡ **Purgatory** : [Clique ici](https://www.mediafire.com/file/dkmclt7y8fwm9k7/the_purgatory_mod_menu-compiled.gsc/file) 🟢
+- 👑 **Revolution** : [Clique ici](https://www.mediafire.com/file/tvi6d23i0d6qc4n/Revolution_by_FBModderFresh.gscr/file) 🟢
+- 🔥 **RMT** : [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file) 🟢
+- 🔥 **Solitary** : [Clique ici](https://www.mediafire.com/file/idvp40jtwyme4wq/solitary_mod_menu-compiled.gsc/file) 🟢
+- 🔫 **VMT** : [Clique ici](https://www.mediafire.com/file/46f0gswvus88jpu/vmt_mod_menu-compiled.gsc/file) 🟢
+- 💥 **ZombieLand** : [Clique ici](https://www.mediafire.com/file/b1d64efos696sgl/Zombieland+By+GhostPants.zip) 🟢
 
 ### **Call of Duty Black Ops 1**
 
-**--GSC Menus--**
+#### --GSC Menus--
+- 🌀 **Encore V8 Multiplayer** : [Clique ici](https://www.mediafire.com/file/ufaqzg46s3b6zji/EncoreV8+Multiplayer.rar/file) 🟢
+- 🌀 **Encore V8 Zombies** : [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file) 🟢
+- 👑 **Kino** : [Clique ici](https://cdn.discordapp.com/attachments/1225115364866658516/1226089789166719006/Release_KinoV1.2.zip?ex=66238019&is=66110b19&hm=ef4cb9a88fcde4d64e2c6d7ab1db945d7d97453806/Relase_KinoV1.2.zip?ex=66238019&is=66110b19&hm=ef4cb9a88fcde4d64e2c6d7ab1db945d7d97453847a24af3d21a99accbde99cb&) 🟢
+- 🔥 **RDD** : [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc) 🟢
+- 🔥 **ULCSx** : [Clique ici](https://cdn.discordapp.com/attachments/1225115364866658516/1225378700975931432/mp_iMCSxs_Mod_Menu.rar?ex=6620e9d8&is=660e74d8&hm=f7158ef6a2086db3413de6210843336968654954e3d9145e0c326527fbcd147e&) 🟢
 
-🌀 Encore V8 Multiplayer : [Clique ici](https://www.mediafire.com/file/ufaqzg46s3b6zji/EncoreV8+Multiplayer.rar/file) 🟢  
-🌀 Encore V8 Zombies : [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file) 🟢  
-👑 Kino : [Clique ici](https://cdn.discordapp.com/attachments/1225115364866658516/1226089789166719006/Release_KinoV1.2.zip?ex=66238019&is=66110b19&hm=ef4cb9a88fcde4d64e2c6d7ab1db945d7d97453806/Relase_KinoV1.2.zip?ex=66238019&is=66110b19&hm=ef4cb9a88fcde4d64e2c6d7ab1db945d7d97453847a24af3d21a99accbde99cb&)  
-🔥 RDD : [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc) 🟢  
-🔥 ULCSx : [Clique ici](https://cdn.discordapp.com/attachments/1225115364866658516/1225378700975931432/mp_iMCSxs_Mod_Menu.rar?ex=6620e9d8&is=660e74d8&hm=f7158ef6a2086db3413de6210843336968654954e3d9145e0c326527fbcd147e&) 🟢
+#### --DLL Menus--
+- 🔥 **Physics** : [Clique ici](https://mega.nz/file/vdsAnQgA#LcRYqU0GL2k6_qA9FrPQD7mFZm5XeJxR_o5nl6j8eDo) 🟢
 
-**--DLL Menus--**
 
-🔥 Physics : [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo) 🟢
-
-### **Call of Duty World at War**
-
-**--GSC Menus--**
-
-🎮 Discarded : [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded%20V3%20-%20T4%20Mod%20Menu.7z/file) 🟢  
-🌀 Elasticity : [Clique ici](https://www.mediafire.com/file/h0jrwmsiqt79jzs/Elasticity.zip/file) 🟢
-
-**--DLL Menus--**
-
-🚫 No Name : [Clique ici](https://mega.nz/file/cfEEHIKI#dAy9mMWGiMCryE77vy4K075s01Tb0EFKjBxk_m7u2c4) 🟢
-
-**--Trainer--**
-
-💀 Zombie Trainer : [Clique ici](https://mega.nz/file/kDFxVL4J#gtJIAZrg8DYPMJ8RY0c4ih78H4nb-154-ch1Go6ozSo) 🟢
-
-### **Call of Duty Modern Warfare 3**
-
-**--DLL Menus--**
-
-🔥 MW3 Haks : [Clique ici](https://mega.nz/file/5X12zIIK#bcUsqJnKaAheigHCo_k7ezWeGZehZ8kfDBy7l1I5R6o) 🟢  
-🚫 AlwaysLoose : [Clique ici](https://www.mediafire.com/file/4x8cc50oclusurb/Mw3_alwayslose.cc.rar/file) 🔴
 ## 🚀 **Call of Duty Downloads** 🚀
 
 **Call of Duty 4 Modern Warfare** : [Clique ici](https://www.mediafire.com/file/498gner89hj16mc/COD4.zip/file) 🟢
