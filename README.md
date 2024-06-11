@@ -1,14 +1,14 @@
-<h1 align="center">Call of Duty Tools</h1>
+<h1>Call of Duty Tools</h1>
 
-<p align="center">Bienvenue sur le GitHub de Joueurs de COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils etc... soigneusement sélectionnés pour améliorer votre expérience de jeu. </p>
+<p>Bienvenue sur le GitHub de Joueurs de COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils etc... soigneusement sélectionnés pour améliorer votre expérience de jeu. </p>
 
-<p align='center'>
+<p>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" alt="Made with C++"></a>
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-c-sharp.svg" alt="Made with C#"></a>
 </p>
 
-<p align='center'>
+<p>
   <a href="https://discord.gg/cod-fr">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>&nbsp;&nbsp;
@@ -17,16 +17,16 @@
   </a>
 </p>
 
-<p align="center">
+<p>
 Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 🟢 : Tout est bon ! &nbsp;&nbsp;&nbsp; 🟠 : Attention faites gaffe ! &nbsp;&nbsp;&nbsp; 🔴 : Déconseillé ! &nbsp;&nbsp;&nbsp; ⚪ : Pas testé !
 </p>
 
-<p align="center">
+<p>
 ⚠️ Nous nous engageons à vérifier tous les fichiers que nous postons sur ce GitHub. ⚠️
 </p>
 
-<div align="center">
+<div>
 
 ## 🔥 **Call of Duty Cheats** 🔥
 
