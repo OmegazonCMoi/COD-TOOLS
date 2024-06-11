@@ -68,6 +68,8 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 ### **Call of Duty Black Ops 2**
 
+**--GSC Menus--**
+
 🔥 RMT : [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file) 🟢
 
 💣 The Final Statement : [Clique ici](https://www.mediafire.com/file/077hcbargt7pcq0/The_Final_Statement_0.5.rar/file) 🟢
@@ -96,6 +98,8 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 ### **Call of Duty Black Ops 1**
 
+**--GSC Menus--**
+
 🌀 Encore V8 Zombies : [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file) 🟢
 
 🌀 Encore V8 Multiplayer : [Clique ici](https://www.mediafire.com/file/ufaqzg46s3b6zji/EncoreV8+Multiplayer.rar/file) 🟢
@@ -106,15 +110,23 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 👑 Kino : [Clique ici](https://cdn.discordapp.com/attachments/1225115364866658516/1226089789166719006/Release_KinoV1.2.zip?ex=66238019&is=66110b19&hm=ef4cb9a88fcde4d64e2c6d7ab1db945d7d97453806/Relase_KinoV1.2.zip?ex=66238019&is=66110b19&hm=ef4cb9a88fcde4d64e2c6d7ab1db945d7d97453847a24af3d21a99accbde99cb&)
 
+**--DLL Menus--**
+
 🔥 Physics : [Clique ici](https://mega.nz/file/vdsAnQgA#LcQE-KsRFHbCYZQWwXzthG8N3cZNijYyYZRdLDQKLPo) 🟢
 
 ### **Call of Duty World at War**
+
+**--GSC Menus--**
 
 🌀 Elasticity : [Clique ici](https://www.mediafire.com/file/h0jrwmsiqt79jzs/Elasticity.zip/file) 🟢
 
 🎮 Discarded : [Clique ici](https://www.mediafire.com/file/9nd4586xx0fhehv/Discarded%20V3%20-%20T4%20Mod%20Menu.7z/file) 🟢
 
+**--DLL Menus--**
+
 🚫 No Name : [Clique ici](https://mega.nz/file/cfEEHIKI#dAy9mMWGiMCryE77vy4K075s01Tb0EFKjBxk_m7u2c4) 🟢
+
+**--Trainer--**
 
 💀 Zombie Trainer : [Clique ici](https://mega.nz/file/kDFxVL4J#gtJIAZrg8DYPMJ8RY0c4ih78H4nb-154-ch1Go6ozSo) 🟢
 
