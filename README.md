@@ -23,7 +23,7 @@
 - 🔴 : Déconseillé !
 - ⚪ : Pas testé !
 
-> **ℹ️ Information :**
+> [!NOTE]
 >
 > ⚠️ Nous nous engageons à vérifier tous les fichiers que nous postons sur ce GitHub. ⚠️
 
