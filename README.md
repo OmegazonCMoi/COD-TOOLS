@@ -1,4 +1,4 @@
-<h1>Call of Duty Tools</h1>
+<h1 align='center'>Call of Duty Tools</h1>
 
 <p>Bienvenue sur le GitHub de Joueurs de COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils etc... soigneusement sélectionnés pour améliorer votre expérience de jeu. </p>
 
