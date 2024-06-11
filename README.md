@@ -118,25 +118,25 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 ## 🚀 **Call of Duty Downloads** 🚀
 
-**Call of Duty Black Ops 4** : [Clique ici](https://mega.nz/file/VbcnTYha#5jmDU9uuMQOpz-P2_RsdL7c7FtbXIhfXPiubCWLzheM) 🟢
+**Call of Duty 4 Modern Warfare** : [Clique ici](https://www.mediafire.com/file/498gner89hj16mc/COD4.zip/file) 🟢
 
-**Call of Duty Black Ops 3** : [Clique ici](https://mega.nz/file/dDl0xZIJ#Kcz4qQbukS5ua_SwFxug9Z5z3FfDEHCWGu2XJN_8frE) 🟢
+**Call of Duty Black Ops 1** : [Clique ici](https://mega.nz/file/UOF0ibKT#Z4SMTDrUJKjvnovsPEZ_W9rggrLRlJrwF7KCpiCw218) 🟢
+
+**Call of Duty Modern Warfare 3** : [Clique ici](https://steamunlocked.net/25-call-of-duty-modern-warfare-3-free-download-2/) 🟢
 
 **Call of Duty Black Ops 2** : [Clique ici](https://mega.nz/file/0GlxgBIR#RJoaHDXQIZDQ1F-crJvSkozAcYVhqeCzeVgGwSOoc_s) 🟢
 
-**Call of Duty Black Ops 1** : [Clique ici](https://mega.nz/file/UOF0ibKT#Z4SMTDrUJKjvnovsPEZ_W9rggrLRlJrwF7KCpiCw218) 🟢
+**Call of Duty Ghosts** : [Clique ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233810146120175669/iw6x_full_game.torrent?ex=662e72bd&is=662d213d&hm=7151d03aa5eff273298eb7a5a6f6f30c1c49ec844b5a8636f2550e4677fd6c21&) 🟢
+
+**Call of Duty Advanced Warfare** : [Clique ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233809762622115910/s1x_full_game.torrent?ex=662e7262&is=662d20e2&hm=907a1b20b74af3361e83be49bc3a54a39e318a7c9c27e9fc969d40235659a6b1&) 🟢
+
+**Call of Duty Black Ops 3** : [Clique ici](https://mega.nz/file/dDl0xZIJ#Kcz4qQbukS5ua_SwFxug9Z5z3FfDEHCWGu2XJN_8frE) 🟢
 
 **Call of Duty Infinite Warfare** : [Clique ici](https://mega.nz/file/4PdiELjS#Cj9yGrkOPXDWnWRjeE1A66pl9u_UGIxOmWsQycjYvUo) 🟢
 
 **Call of Duty World War 2** : [Clique ici](https://steamunlocked.net/b67926-call-of-duty-ww2-free-download/) 🟢
 
-**Call of Duty 4 Modern Warfare** : [Clique ici](https://www.mediafire.com/file/498gner89hj16mc/COD4.zip/file) 🟢
-
-**Call of Duty Modern Warfare 3** : [Clique ici](https://steamunlocked.net/25-call-of-duty-modern-warfare-3-free-download-2/) 🟢
-
-**Call of Duty Advanced Warfare** : [Clique ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233809762622115910/s1x_full_game.torrent?ex=662e7262&is=662d20e2&hm=907a1b20b74af3361e83be49bc3a54a39e318a7c9c27e9fc969d40235659a6b1&) 🟢
-
-**Call of Duty Ghosts** : [Clique ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233810146120175669/iw6x_full_game.torrent?ex=662e72bd&is=662d213d&hm=7151d03aa5eff273298eb7a5a6f6f30c1c49ec844b5a8636f2550e4677fd6c21&) 🟢
+**Call of Duty Black Ops 4** : [Clique ici](https://mega.nz/file/VbcnTYha#5jmDU9uuMQOpz-P2_RsdL7c7FtbXIhfXPiubCWLzheM) 🟢
 
 ## 🎮 **Call of Duty Clients** 🎮
 
