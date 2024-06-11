@@ -32,7 +32,11 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 ### **Call of Duty Black Ops 4**
 
+**DLL Menus**
+
 **🔓 Unlock All** : [Clique ici](https://mega.nz/file/UasjBQJZ#3MT20fpnCZh3D73zBIh6yIX2yNT6Bh3SydtkG62DZMY) 🟢
+
+**GSC Menus**
 
 **👾 Lucy Menu ZM** : [Clique ici](https://github.com/TheUnknownCod3r/BO4-Lucy-Menu) 🟢
 
@@ -44,6 +48,8 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 
 ### **Call of Duty Black Ops 3**
 
+**DLL Menus**
+
 **🔥 MXT** : [Clique ici](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file) 🟢
 
 **🎯 Scropts** : [Clique ici](https://mega.nz/file/oaUmDRLb#lLC9fxgjiFBL09wjCOBr7B13OaoKrwLXXo3GzEr5UuU) 🟢
@@ -51,6 +57,8 @@ Les fichiers proposés ci-dessous sont classés en plusieurs catégories : <br>
 **👻 Phantom** : [Clique ici](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I) 🟢
 
 **💪 Godness** : [Clique ici](https://pastebin.com/iUVPmvRx) 🟢
+
+**GSC Menus**
 
 **🌀 GSC Menus** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) 🟢
 
