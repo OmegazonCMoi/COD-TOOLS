@@ -23,10 +23,6 @@
 - 🔴 : Déconseillé !
 - ⚪ : Pas testé !
 
-> [!NOTE]
->
-> Nous nous engageons à vérifier tous les fichiers que nous postons sur ce GitHub. 
-
 ## 🔥 **Call of Duty Cheats** 🔥
 
 ### **Call of Duty Black Ops 4**
