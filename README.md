@@ -81,7 +81,9 @@
 
 **Call of Duty Black Ops 2** : [Clique ici](https://mega.nz/file/0GlxgBIR#RJoaHDXQIZDQ1F-crJvSkozAcYVhqeCzeVgGwSOoc_s) 🟢
 
-**Call of Duty Black Ops 3** : [Clique ici](https://mega.nz/file/dDl0xZIJ#Kcz4qQbukS5ua_SwFxug9Z5z3FfDEHCWGu2XJN_8frE) 🟢
+**Call of Duty Black Ops 3 Full** : [Clique ici](https://mega.nz/file/dDl0xZIJ#Kcz4qQbukS5ua_SwFxug9Z5z3FfDEHCWGu2XJN_8frE) 🟢
+
+**Call of Duty Black Ops 3 DLCs** : [Clique ici](https://drive.google.com/drive/folders/1Egn1SX3Bv8kkdsCJt4HuzdI-92V5c-z8?usp=drive_link) 🟢
 
 **Call of Duty Black Ops 4** : [Clique ici](https://mega.nz/file/VbcnTYha#5jmDU9uuMQOpz-P2_RsdL7c7FtbXIhfXPiubCWLzheM) 🟢
 
