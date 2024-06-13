@@ -71,9 +71,7 @@
 #### --GSC Menus--
 - 🌀 **Encore V8 Multiplayer** : [Clique ici](https://www.mediafire.com/file/ufaqzg46s3b6zji/EncoreV8+Multiplayer.rar/file) 🟢
 - 🌀 **Encore V8 Zombies** : [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file) 🟢
-- 👑 **Kino** : [Clique ici](https://cdn.discordapp.com/attachments/1225115364866658516/1226089789166719006/Release_KinoV1.2.zip?ex=66238019&is=66110b19&hm=ef4cb9a88fcde4d64e2c6d7ab1db945d7d97453806/Relase_KinoV1.2.zip?ex=66238019&is=66110b19&hm=ef4cb9a88fcde4d64e2c6d7ab1db945d7d97453847a24af3d21a99accbde99cb&) 🟢
 - 🔥 **RDD** : [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc) 🟢
-- 🔥 **ULCSx** : [Clique ici](https://cdn.discordapp.com/attachments/1225115364866658516/1225378700975931432/mp_iMCSxs_Mod_Menu.rar?ex=6620e9d8&is=660e74d8&hm=f7158ef6a2086db3413de6210843336968654954e3d9145e0c326527fbcd147e&) 🟢
 
 #### --DLL Menus--
 - 🔥 **Physics** : [Clique ici](https://mega.nz/file/vdsAnQgA#LcRYqU0GL2k6_qA9FrPQD7mFZm5XeJxR_o5nl6j8eDo) 🟢
@@ -81,7 +79,7 @@
 
 ## 🚀 **Call of Duty Downloads** 🚀
 
-**Call of Duty Advanced Warfare** : [Clique ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233809762622115910/s1x_full_game.torrent?ex=662e7262&is=662d20e2&hm=907a1b20b74af3361e83be49bc3a54a39e318a7c9c27e9fc969d40235659a6b1&) 🟢
+**Call of Duty Advanced Warfare** : [Clique ici](https://mega.nz/file/0blT0ZQa#WUK0nwuWF5_tnt9NxjIFfesmDwkv2Gg_K-Qs_kXhmfU) 🟢
 
 **Call of Duty Black Ops 1** : [Clique ici](https://mega.nz/file/UOF0ibKT#Z4SMTDrUJKjvnovsPEZ_W9rggrLRlJrwF7KCpiCw218) 🟢
 
@@ -91,7 +89,7 @@
 
 **Call of Duty Black Ops 4** : [Clique ici](https://mega.nz/file/VbcnTYha#5jmDU9uuMQOpz-P2_RsdL7c7FtbXIhfXPiubCWLzheM) 🟢
 
-**Call of Duty Ghosts** : [Clique ici](https://cdn.discordapp.com/attachments/1233808548513972255/1233810146120175669/iw6x_full_game.torrent?ex=662e72bd&is=662d213d&hm=7151d03aa5eff273298eb7a5a6f6f30c1c49ec844b5a8636f2550e4677fd6c21&) 🟢
+**Call of Duty Ghosts** : [Clique ici](https://mega.nz/file/BacC0CyL#jin4L5h0ssD5J350V580SpdFg9_ZQQOzXhemQElAduA) 🟢
 
 **Call of Duty Infinite Warfare** : [Clique ici](https://mega.nz/file/4PdiELjS#Cj9yGrkOPXDWnWRjeE1A66pl9u_UGIxOmWsQycjYvUo) 🟢
 
