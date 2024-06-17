@@ -52,19 +52,16 @@
 ### **Call of Duty Black Ops 2**
 
 #### --GSC Menus--
-- 🦇 **Batman V14.8** : [Clique ici](https://www.mediafire.com/file/1prbd797z7p7d2k/BatMan+V14.8.rar) 🟢
 - 🔥 **Bossam V6** : [Clique ici](https://mega.nz/file/IkUkhK6L#4mFGX4J-cplFaGVuP2awBkyIapdy2vrrYApDrywXJPg) 🟢
 - 🌀 **Echelon V2** : [Clique ici](https://www.mediafire.com/file/54t2l2h70f91emb/echelon_v2_mod_menu-compiled.gsc/file) 🟢
 - 💥 **Evil Twin** : [Clique ici](https://www.mediafire.com/folder/powrexwrzut47/Evil+Twin+(V1)) 🟢
 - 🌈 **Keabadian V1** : [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file) 🟢
-- 🛡️ **Kamil** : [Clique ici](https://www.mediafire.com/file/0u25ej82jlzh79c/MhayzzKV8.gscr/file) 🟢
 - 💣 **The Final Statement** : [Clique ici](https://www.mediafire.com/file/077hcbargt7pcq0/The_Final_Statement_0.5.rar/file) 🟢
 - ⚡ **Purgatory** : [Clique ici](https://www.mediafire.com/file/dkmclt7y8fwm9k7/the_purgatory_mod_menu-compiled.gsc/file) 🟢
 - 👑 **Revolution** : [Clique ici](https://www.mediafire.com/file/tvi6d23i0d6qc4n/Revolution_by_FBModderFresh.gscr/file) 🟢
 - 🔥 **RMT** : [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file) 🟢
 - 🔥 **Solitary** : [Clique ici](https://www.mediafire.com/file/idvp40jtwyme4wq/solitary_mod_menu-compiled.gsc/file) 🟢
 - 🔫 **VMT** : [Clique ici](https://www.mediafire.com/file/46f0gswvus88jpu/vmt_mod_menu-compiled.gsc/file) 🟢
-- 💥 **ZombieLand** : [Clique ici](https://www.mediafire.com/file/b1d64efos696sgl/Zombieland+By+GhostPants.zip) 🟢
 
 ### **Call of Duty Black Ops 1**
 
