@@ -132,8 +132,9 @@ Vérifiez bien que vous avez bien tous les fichiers (si nécessaire)
 
 **Autre** <br>
 Redémarrez votre PC <br>
-Installer tous les redistribuables C++ <br>
-Installer toutes les version de .NET <br>
+Installez tous les redistribuables C++ <br>
+Installez toutes les version de .NET <br>
+Mettez à jour vos pilotes graphiques <br>
 Désactivez tout VPN <br>
 Demandez sur le serveur !
 
