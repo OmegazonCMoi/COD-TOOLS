@@ -145,6 +145,4 @@ Merci de votre visite sur le Github de Hack on COD. Nous espérons que vous avez
 *Ces fichiers sont destinés à un usage éducatif uniquement. L'utilisation de cheats ou de versions modifiées de jeux peut entraîner la suspension ou l'interdiction de votre compte par l'éditeur du jeu. Utilisez-les à vos propres risques.*
 
 </div>
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1184104514974928968/1245630001055924284/Cod.png?ex=665972d6&is=66582156&hm=e99bb26d9fb497f6e5f4b7e30e95142ee6c1c8c0cecd8e2225c4c75274a1803a&=&format=webp&quality=lossless&width=700&height=700" alt="Joueur Logo" width="200" height="200">
-</p>
+
