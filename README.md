@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p align="center">Bienvenue sur le GitHub de Joueurs de COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils, etc., soigneusement sélectionnés pour améliorer votre expérience de jeu.</p>
+<p align="center">Bienvenue sur le GitHub de Hack on COD, votre destination ultime pour accéder à une vaste gamme de fichiers et de ressources liés à l'univers de Call of Duty. Explorez notre collection complète de fichiers, comprenant des mods, des scripts, des outils, etc., soigneusement sélectionnés pour améliorer votre expérience de jeu.</p>
 
 ## Légende des fichiers
 - 🟢 : Tout est bon !
@@ -138,7 +138,7 @@ Mettez à jour vos pilotes graphiques <br>
 Désactivez tout VPN <br>
 Demandez sur le serveur !
 
-Merci de votre visite sur le Github de Joueurs de COD. Nous espérons que vous avez trouvé tout ce que vous cherchiez. Pour toute autre question, n'hésitez pas à nous contacter.
+Merci de votre visite sur le Github de Hack on COD. Nous espérons que vous avez trouvé tout ce que vous cherchiez. Pour toute autre question, n'hésitez pas à nous contacter.
 
 ---
 
