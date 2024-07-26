@@ -25,6 +25,10 @@
 
 ## 🔥 **Call of Duty Cheats** 🔥
 
+### **Call of Duty Black Ops Cold War**
+
+#### --GSC Menus--
+- 🔓 **Atian** : [Clique ici](https://www.mediafire.com/file/ogib0fdcp1szynb/BlackOpsColdWar_atianmenu_pc.gscc/file) 🟢
 ### **Call of Duty Black Ops 4**
 
 #### --DLL Menus--
