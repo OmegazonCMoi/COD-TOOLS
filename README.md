@@ -25,10 +25,7 @@
 
 ## 🔥 **Call of Duty Cheats** 🔥
 
-### **Call of Duty Black Ops Cold War**
 
-#### --GSC Menus--
-- 🔓 **Atian** : [Clique ici](https://www.mediafire.com/file/ogib0fdcp1szynb/BlackOpsColdWar_atianmenu_pc.gscc/file) 🟢
 ### **Call of Duty Black Ops 4**
 
 #### --DLL Menus--
@@ -73,6 +70,17 @@
 - 🌀 **Encore V8 Multiplayer** : [Clique ici](https://www.mediafire.com/file/ufaqzg46s3b6zji/EncoreV8+Multiplayer.rar/file) 🟢
 - 🌀 **Encore V8 Zombies** : [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file) 🟢
 - 🔥 **RDD** : [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc) 🟢
+
+### **Call of Duty Black Ops Cold War**
+
+#### --GSC Menus--
+- 🔓 **Atian** : [Clique ici](https://www.mediafire.com/file/ogib0fdcp1szynb/BlackOpsColdWar_atianmenu_pc.gscc/file) 🟢
+
+### **Call of Duty Infinite Warfare**
+
+#### --GSC Menus--
+- 🔓 **IW7 Public** : [Clique ici](https://www.mediafire.com/file/15g2hl0pgawhdw0/iw7-public.dll/file) 🟢
+
 
 ## 🚀 **Call of Duty Downloads** 🚀
 
