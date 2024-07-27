@@ -79,7 +79,7 @@
 ### **Call of Duty Infinite Warfare**
 
 #### --DLL Menus--
-- 🌪️ **IW7 Public** : [Clique ici](https://www.mediafire.com/file/15g2hl0pgawhdw0/iw7-public.dll/file) 🟢
+- 🌪️ **IW7 Public** : [Clique ici](https://mega.nz/file/oClHiKJB#5r7hCRlIglqqypikBHEq1cJ6YuEa3nGGjkRy_jYmu_o) 🟢
 
 #### --CT Menus--
 - 🔥 **Complete Table** : [Clique ici](https://www.mediafire.com/file/jae20rbqi0hh880/CodIW_hack.CT/file) 🟢
