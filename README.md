@@ -117,7 +117,9 @@
 
 **Plutonium** : [Clique ici](https://plutonium.pw) 🟢
 
-**IW7-Mod** : [Clique ici](https://mega.nz/file/BLtRUTbJ#RxN7dcWEdlUtqRT1caQbtAvGdFWIiqHQF3kuM9ym-x0) 🟢
+**IW7-Mod (Steam)** : [Clique ici](https://mega.nz/file/IfdjHK4A#HrGCpHms-oRTvVyRJH5fhk5MneO6m9MkgEVdzO7j_Vc) :green_circle:
+
+**IW7-MOD (Crack)** : [Clique ici](https://mega.nz/file/IGVXTAAR#x-OAVpHPsoKYIiJJNH7PBER6s4FApUr5p5WHgR3jNLM) :green_circle:
 
 **COD4X-Mod** : [Clique ici](https://cod4x.ovh/t/releases/24) 🟢
 
