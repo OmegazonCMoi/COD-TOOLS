@@ -80,6 +80,8 @@
 
 #### --DLL Menus--
 - 🌪️ **IW7 Public** : [Clique ici](https://mega.nz/file/oClHiKJB#5r7hCRlIglqqypikBHEq1cJ6YuEa3nGGjkRy_jYmu_o) 🟢
+- 🔐 **Infinite Warfare Unlock Tool** : [Clique ici](http://joueursdecodfr.mygamesonline.org/leak/IWUnlocker.zip)
+
 
 #### --CT Menus--
 - 🔥 **Complete Table** : [Clique ici](https://www.mediafire.com/file/jae20rbqi0hh880/CodIW_hack.CT/file) 🟢
