@@ -89,27 +89,32 @@
 
 ## 🚀 **Call of Duty Downloads** 🚀
 
-**Call of Duty Advanced Warfare** : [Clique ici](https://mega.nz/file/0blT0ZQa#WUK0nwuWF5_tnt9NxjIFfesmDwkv2Gg_K-Qs_kXhmfU) 🟢
+1. **Call of Duty 4: Modern Warfare** (2007) : [Clique ici](https://www.mediafire.com/file/498gner89hj16mc/COD4.zip/file) 🟢
+   
+2. **Call of Duty: World at War** (2008) : [Clique ici](https://mega.nz/file/AK9zQaZS#Yeze7cn-ddhgnXOeJF9FY7v5xBn-WqzZ1fv7-NdrZis) 🟢
+   
+3. **Call of Duty: Modern Warfare 2** (2009) : [Clique ici](https://mega.nz/file/YeFmSRAR#aPGfiDCvboLt4aBX1ju4-7u3cDOye1WQWrb5saUdgH8) 🟢
+   
+4. **Call of Duty: Black Ops 1** (2010) : [Clique ici](https://mega.nz/file/UOF0ibKT#Z4SMTDrUJKjvnovsPEZ_W9rggrLRlJrwF7KCpiCw218) 🟢
+   
+5. **Call of Duty: Black Ops 2** (2012) : [Clique ici](https://mega.nz/file/0GlxgBIR#RJoaHDXQIZDQ1F-crJvSkozAcYVhqeCzeVgGwSOoc_s) 🟢
+    
+6. **Call of Duty: Ghosts** (2013) : [Clique ici](https://mega.nz/file/BacC0CyL#jin4L5h0ssD5J350V580SpdFg9_ZQQOzXhemQElAduA) 🟢
+    
+7. **Call of Duty: Advanced Warfare** (2014) : [Clique ici](https://mega.nz/file/0blT0ZQa#WUK0nwuWF5_tnt9NxjIFfesmDwkv2Gg_K-Qs_kXhmfU) 🟢
+    
+8. **Call of Duty: Black Ops 3 Full** (2015) : [Clique ici](https://mega.nz/file/dDl0xZIJ#Kcz4qQbukS5ua_SwFxug9Z5z3FfDEHCWGu2XJN_8frE) 🟢
 
-**Call of Duty Black Ops 1** : [Clique ici](https://mega.nz/file/UOF0ibKT#Z4SMTDrUJKjvnovsPEZ_W9rggrLRlJrwF7KCpiCw218) 🟢
+9. **Call of Duty: Black Ops 3 DLCs** : [Clique ici](https://drive.google.com/drive/folders/1Egn1SX3Bv8kkdsCJt4HuzdI-92V5c-z8?usp=drive_link) 🟢
 
-**Call of Duty Black Ops 2** : [Clique ici](https://mega.nz/file/0GlxgBIR#RJoaHDXQIZDQ1F-crJvSkozAcYVhqeCzeVgGwSOoc_s) 🟢
+10. **Call of Duty: Infinite Warfare** (2016) : [Clique ici](https://mega.nz/file/4PdiELjS#Cj9yGrkOPXDWnWRjeE1A66pl9u_UGIxOmWsQycjYvUo) 🟢
+     
+11. **Call of Duty: World War 2** (2017) : [Clique ici](https://steamunlocked.net/b67926-call-of-duty-ww2-free-download/) 🟢
+    
+12. **Call of Duty: Black Ops 4** (2018) : [Clique ici](https://mega.nz/file/VbcnTYha#5jmDU9uuMQOpz-P2_RsdL7c7FtbXIhfXPiubCWLzheM) 🟢
+  
+13. **Call of Duty: Black Ops Cold War** (2020) : [Clique ici](https://gofile.io/d/s9r66f) 🟢
 
-**Call of Duty Black Ops 3 Full** : [Clique ici](https://mega.nz/file/dDl0xZIJ#Kcz4qQbukS5ua_SwFxug9Z5z3FfDEHCWGu2XJN_8frE) 🟢
-
-**Call of Duty Black Ops 3 DLCs** : [Clique ici](https://drive.google.com/drive/folders/1Egn1SX3Bv8kkdsCJt4HuzdI-92V5c-z8?usp=drive_link) 🟢
-
-**Call of Duty Black Ops 4** : [Clique ici](https://mega.nz/file/VbcnTYha#5jmDU9uuMQOpz-P2_RsdL7c7FtbXIhfXPiubCWLzheM) 🟢
-
-**Call of Duty Ghosts** : [Clique ici](https://mega.nz/file/BacC0CyL#jin4L5h0ssD5J350V580SpdFg9_ZQQOzXhemQElAduA) 🟢
-
-**Call of Duty Infinite Warfare** : [Clique ici](https://mega.nz/file/4PdiELjS#Cj9yGrkOPXDWnWRjeE1A66pl9u_UGIxOmWsQycjYvUo) 🟢
-
-**Call of Duty Modern Warfare 3** : [Clique ici](https://steamunlocked.net/25-call-of-duty-modern-warfare-3-free-download-2/) 🟢
-
-**Call of Duty 4 Modern Warfare** : [Clique ici](https://www.mediafire.com/file/498gner89hj16mc/COD4.zip/file) 🟢
-
-**Call of Duty World War 2** : [Clique ici](https://steamunlocked.net/b67926-call-of-duty-ww2-free-download/) 🟢
 
 ## 🎮 **Call of Duty Clients** 🎮
 
