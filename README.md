@@ -105,11 +105,11 @@
     
 8. **Call of Duty: Black Ops 3 Full** (2015) : [Clique ici](https://mega.nz/file/dDl0xZIJ#Kcz4qQbukS5ua_SwFxug9Z5z3FfDEHCWGu2XJN_8frE) 🟢
 
-9. **Call of Duty: Black Ops 3 DLCs** : [Clique ici](https://drive.google.com/drive/folders/1Egn1SX3Bv8kkdsCJt4HuzdI-92V5c-z8?usp=drive_link) 🟢
+9. **Call of Duty: Black Ops 3 DLCs** (2015) : [Clique ici](https://drive.google.com/drive/folders/1Egn1SX3Bv8kkdsCJt4HuzdI-92V5c-z8?usp=drive_link) 🟢
 
 10. **Call of Duty: Infinite Warfare** (2016) : [Clique ici](https://mega.nz/file/4PdiELjS#Cj9yGrkOPXDWnWRjeE1A66pl9u_UGIxOmWsQycjYvUo) 🟢
      
-11. **Call of Duty: World War 2** (2017) : [Clique ici](https://steamunlocked.net/b67926-call-of-duty-ww2-free-download/) 🟢
+11. **Call of Duty: World War 2** (2017) : [Clique ici](https://mega.nz/file/4elxUbhJ#wzUuDUW69avsFNjG2ev9TFwZXNnmZX__ABMaP8fZ9h0) 🟢
     
 12. **Call of Duty: Black Ops 4** (2018) : [Clique ici](https://mega.nz/file/VbcnTYha#5jmDU9uuMQOpz-P2_RsdL7c7FtbXIhfXPiubCWLzheM) 🟢
   
