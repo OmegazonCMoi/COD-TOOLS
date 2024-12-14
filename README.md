@@ -50,27 +50,6 @@
 - 🌪️ **EncoreV13** : [Clique ici](https://steamcommunity.com/sharedfiles/filedetails/?id=794367203&searchtext=Mod+Menu) 🟢
 - 🌀 **GSC Menus** : [Clique ici](https://www.mediafire.com/file/cgy6n21tlyy7bfm/GSC+injector.zip/file) 🟢
 
-### **Call of Duty Black Ops 2**
-
-#### --GSC Menus--
-- 🔥 **Bossam V6** : [Clique ici](https://mega.nz/file/IkUkhK6L#4mFGX4J-cplFaGVuP2awBkyIapdy2vrrYApDrywXJPg) 🟢
-- 🌀 **Echelon V2** : [Clique ici](https://www.mediafire.com/file/54t2l2h70f91emb/echelon_v2_mod_menu-compiled.gsc/file) 🟢
-- 💥 **Evil Twin** : [Clique ici](https://www.mediafire.com/folder/powrexwrzut47/Evil+Twin+(V1)) 🟢
-- 🌈 **Keabadian V1** : [Clique ici](https://www.mediafire.com/file/tuk22bp83ozkevw/Keabadian_v2.0.zip/file) 🟢
-- 💣 **The Final Statement** : [Clique ici](https://www.mediafire.com/file/077hcbargt7pcq0/The_Final_Statement_0.5.rar/file) 🟢
-- ⚡ **Purgatory** : [Clique ici](https://www.mediafire.com/file/dkmclt7y8fwm9k7/the_purgatory_mod_menu-compiled.gsc/file) 🟢
-- 👑 **Revolution** : [Clique ici](https://www.mediafire.com/file/tvi6d23i0d6qc4n/Revolution_by_FBModderFresh.gscr/file) 🟢
-- 🔥 **RMT** : [Clique ici](https://www.mediafire.com/file/ow37neconkyelr1/rmt_zombies_menu_v2.6_mod_menu-compiled.gsc/file) 🟢
-- 🔥 **Solitary** : [Clique ici](https://www.mediafire.com/file/idvp40jtwyme4wq/solitary_mod_menu-compiled.gsc/file) 🟢
-- 🔫 **VMT** : [Clique ici](https://www.mediafire.com/file/46f0gswvus88jpu/vmt_mod_menu-compiled.gsc/file) 🟢
-
-### **Call of Duty Black Ops 1**
-
-#### --GSC Menus--
-- 🌀 **Encore V8 Multiplayer** : [Clique ici](https://www.mediafire.com/file/ufaqzg46s3b6zji/EncoreV8+Multiplayer.rar/file) 🟢
-- 🌀 **Encore V8 Zombies** : [Clique ici](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file) 🟢
-- 🔥 **RDD** : [Clique ici](https://github.com/roachnacs/redemption-bo1-gsc) 🟢
-
 ### **Call of Duty Black Ops Cold War**
 
 #### --GSC Menus--
