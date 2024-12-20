@@ -59,8 +59,16 @@
 
 #### --DLL Menus--
 - 🌪️ **IW7 Public** : [Clique ici](https://mega.nz/file/oClHiKJB#5r7hCRlIglqqypikBHEq1cJ6YuEa3nGGjkRy_jYmu_o) 🟢
-- 🔐 **Infinite Warfare Unlock Tool** : [Clique ici](https://mega.nz/file/RGd1HQCS#FuFJtpsvLf0rZ7BBtS-pVVLHiU-2YaeBRa72BGqZtYE)
+- 🔐 **Infinite Warfare Unlock Tool** : [Clique ici](https://mega.nz/file/RGd1HQCS#FuFJtpsvLf0rZ7BBtS-pVVLHiU-2YaeBRa72BGqZtYE) 🟢
 
+#### --GSC Menus--
+- 🌪️ **Synergy Campaign** : [Clique ici](https://mega.nz/file/cWMRjKqD#6Smd0QX7uVQ4UMZKTxk-a-5LwMV_bR9bjidUzQfzBes) 🟢
+- 🌪️ **Synergy Multiplayer** : [Clique ici](https://mega.nz/file/VecmFZxR#4EugRZ91t66ANdK77tfeK9GE4M8MCjOCfOe5Fitua_4) 🟢
+- 🌪️ **Synergy Zombies** : [Clique ici](https://mega.nz/file/kLkzxJIK#NcY6SdYVkIkAE7xHGaReo0abkw8WD4ncRg6gBiCvKO0) 🟢
+- 🎮 **RTM Tool** : [Clique ici](https://mega.nz/file/MXlFTAKQ#SFqgPEDET2IMNxb2v1jLXEGqNJdxJAAkt-TtGHQGDTA) 🟢
+
+#### --EXE Menus--
+- 🔥 **Azza Menu** : [Clique ici](https://mega.nz/file/lXUyxAZY#fShaVRIc_p8491QhD_OyqWCuPoudiLRHqIEekLun314) 🟢
 
 #### --CT Menus--
 - 🔥 **Complete Table** : [Clique ici](https://www.mediafire.com/file/jae20rbqi0hh880/CodIW_hack.CT/file) 🟢
